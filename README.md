@@ -1,0 +1,1 @@
+# SplFileObject_template
